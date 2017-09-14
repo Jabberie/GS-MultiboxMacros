@@ -1,3 +1,7 @@
+local _, Sequences = ...
+---------------------------
+---------------------------
+---------------------------
 mtsx and similar are commands in MacroToolkit to remove sound and text errors ingame. 
 
 #showtooltip Avenger's Shield
