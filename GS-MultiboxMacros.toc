@@ -1,21 +1,99 @@
-## Interface: 70250
-## Title: |cffff0000GS-E:|r |cFF00D1FFWLM High Performance Macros|r - Straight from GitHub
-## Notes: These macros have been identified by the wowlazymacros.com community as High Performace Macros.  This version has been loaded Direct from GitHub
-## Author: TimothyLuke
+## Interface: 70300
+## Title: |cffff0000GS-E:|r Jabberie's Multiboxing Macros
+## Notes: A Collection of GSE Macros specifically tailored for Multiboxing
+## Author: Jabberie@Draka
 ## Version: v2.1.0
 ## RequiredDeps: GSE
 
 
-Macros\DeathKnight.lua
-Macros\Druid.lua
-Macros\DemonHunter.lua
-Macros\Hunter.lua
-Macros\Mage.lua
-Macros\Monk.lua
-Macros\Paladin.lua
-Macros\Priest.lua
-Macros\Rogue.lua
-Macros\Shaman.lua
-Macros\Warlock.lua
-Macros\Warrior.lua
+## GSEMacros\DeathKnight\Blood\Blood_AoE.lua
+GSEMacros\DeathKnight\Blood\Blood_ST.lua
+## GSEMacros\DeathKnight\Frost\Frost_AoE.lua
+## GSEMacros\DeathKnight\Frost\Frost_ST.lua
+## GSEMacros\DeathKnight\Unholy\Unholy_AoE.lua
+## GSEMacros\DeathKnight\Unholy\Unholy_ST.lua
+
+GSEMacros\DemonHunter\Havoc\Havoc_AoE.lua
+## GSEMacros\DemonHunter\Havoc\Havoc_ST.lua
+GSEMacros\DemonHunter\Vengeance\Vengeance_AoE.lua
+## GSEMacros\DemonHunter\Vengeance\Vengeance_ST.lua
+## 
+## GSEMacros\Druid\Balance\Balance_AOE.lua
+## GSEMacros\Druid\Balance\Balance_ST.lua
+## GSEMacros\Druid\Feral\Feral_AoE.lua
+## GSEMacros\Druid\Feral\Feral_ST.lua
+## GSEMacros\Druid\Guardian\Guardian_AoE.lua
+## GSEMacros\Druid\Guardian\Guardian_ST.lua
+## GSEMacros\Druid\Restoration\Restoration_AoE.lua
+## GSEMacros\Druid\Restoration\Restoration_ST.lua
+## 
+## GSEMacros\Hunter\BeastMastery\BM_AOE.lua
+## GSEMacros\Hunter\BeastMastery\BM_ST.lua
+## GSEMacros\Hunter\Marksmanship\Marksmanship_AoE.lua
+## GSEMacros\Hunter\Marksmanship\Marksmanship_ST.lua
+## GSEMacros\Hunter\Survival\Survival_AoE.lua
+## GSEMacros\Hunter\Survival\Survival_ST.lua
+## 
+## GSEMacros\Mage\Arcane\Arcane_AOE.lua
+## GSEMacros\Mage\Arcane\Arcane_ST.lua
+## GSEMacros\Mage\Fire\Fire_AoE.lua
+## GSEMacros\Mage\Fire\Fire_ST.lua
+## GSEMacros\Mage\Frost\Frost_AoE.lua
+## GSEMacros\Mage\Frost\Frost_ST.lua
+## 
+## GSEMacros\Monk\Brewmaster\BM_AoE.lua
+## GSEMacros\Monk\Brewmaster\BM_ST.lua
+## GSEMacros\Monk\Mistweaver\MW_AoE.lua
+## GSEMacros\Monk\Mistweaver\MW_ST.lua
+## GSEMacros\Monk\Windwalker\WW_AoE.lua
+## GSEMacros\Monk\Windwalker\WW_ST.lua
+## 
+## GSEMacros\Paladin\Holy\Holy_AoE.lua
+## GSEMacros\Paladin\Holy\Holy_ST.lua
+## GSEMacros\Paladin\Protection\Prot_AoE.lua
+## GSEMacros\Paladin\Protection\Prot_ST.lua
+## GSEMacros\Paladin\Retribution\Ret_AoE.lua
+## GSEMacros\Paladin\Retribution\Ret_ST.lua
+## 
+## GSEMacros\Priest\Discipline\Disc_AoE.lua
+## GSEMacros\Priest\Discipline\Disc_ST.lua
+## GSEMacros\Priest\Holy\Holy_AoE.lua
+## GSEMacros\Priest\Holy\Holy_ST.lua
+## GSEMacros\Priest\Shadow\Shadow_AoE.lua
+## GSEMacros\Priest\Shadow\Shadow_ST.lua
+## 
+## GSEMacros\Rogue\Assassination\Assin_AoE.lua
+## GSEMacros\Rogue\Assassination\Assin_ST.lua
+## GSEMacros\Rogue\Outlaw\Outlaw_AoE.lua
+## GSEMacros\Rogue\Outlaw\Outlaw_ST.lua
+## GSEMacros\Rogue\Subtlety\Sub_AoE.lua
+## GSEMacros\Rogue\Subtlety\Sub_ST.lua
+## 
+## GSEMacros\Shaman\Elemental\Elemental_AoE.lua
+## GSEMacros\Shaman\Elemental\Elemental_ST.lua
+## GSEMacros\Shaman\Enhancement\Enhancement_AoE.lua
+## GSEMacros\Shaman\Enhancement\Enhancement_ST.lua
+## GSEMacros\Shaman\Restoration\Restoration_AOE.lua
+## GSEMacros\Shaman\Restoration\Restoration_ST.lua
+## 
+## GSEMacros\Warlock\Affliction\Affliction_AOE.lua
+## GSEMacros\Warlock\Affliction\Affliction_ST.lua
+## GSEMacros\Warlock\Demonology\Demonology_AOE.lua
+## GSEMacros\Warlock\Demonology\Demonology_ST.lua
+## GSEMacros\Warlock\Destruction\Destruction_AOE.lua
+## GSEMacros\Warlock\Destruction\Destruction_ST.lua
+## 
+## GSEMacros\Warrior\Arms\Arms_AOE.lua
+## GSEMacros\Warrior\Arms\Arms_ST.lua
+## GSEMacros\Warrior\Fury\Fury_AOE.lua
+## GSEMacros\Warrior\Fury\Fury_ST.lua
+## GSEMacros\Warrior\Protection\Protection_AOE.lua
+## GSEMacros\Warrior\Protection\Protection_ST.lua
+
+## ################
+## Special Macros
+## ################
+
+GSEMacros\Hunter\BeastMastery\BM_Farm.lua
+
 loaded.lua
