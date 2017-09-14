@@ -1,4 +1,8 @@
-Sequences['Prot_ST'] = {
+local _, Sequences = ...
+---------------------------
+---------------------------
+---------------------------
+Sequences['JMM_Prot_ST'] = {
   Author="Jabberie@Draka",
   SpecID=66,
   Talents = "2133121",

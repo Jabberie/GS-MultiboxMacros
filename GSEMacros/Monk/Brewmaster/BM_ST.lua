@@ -1,8 +1,8 @@
-local _, Sequences = ...
+JMM_local _, Sequences = ...
 ---------------------------
 ---------------------------
 ---------------------------
-Sequences['BM_ST'] = {
+Sequences['JMM_BM_ST'] = {
   SpecID = 268,
   Author = "Jabberie@Draka",
   Talents = "2113112",

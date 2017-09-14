@@ -1,6 +1,6 @@
 local _, Sequences = ...
 
-Sequences['Havoc_ST'] = {
+Sequences['JMM_Havoc_ST'] = {
   Author="Jabberie@Draka",
   SpecID=577,
   Talents = "2222211",

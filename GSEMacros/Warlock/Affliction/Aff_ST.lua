@@ -2,7 +2,7 @@ local _, Sequences = ...
 ---------------------------
 ---------------------------
 ---------------------------
-Sequences['Aff_ST'] = {
+Sequences['JMM_Aff_ST'] = {
   Author="Jabberie@draka",
   SpecID=265,
   Talents = "3121113",
