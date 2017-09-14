@@ -1,0 +1,21 @@
+## Interface: 70250
+## Title: |cffff0000GS-E:|r |cFF00D1FFWLM High Performance Macros|r - Straight from GitHub
+## Notes: These macros have been identified by the wowlazymacros.com community as High Performace Macros.  This version has been loaded Direct from GitHub
+## Author: TimothyLuke
+## Version: v2.1.0
+## RequiredDeps: GSE
+
+
+Macros\DeathKnight.lua
+Macros\Druid.lua
+Macros\DemonHunter.lua
+Macros\Hunter.lua
+Macros\Mage.lua
+Macros\Monk.lua
+Macros\Paladin.lua
+Macros\Priest.lua
+Macros\Rogue.lua
+Macros\Shaman.lua
+Macros\Warlock.lua
+Macros\Warrior.lua
+loaded.lua
