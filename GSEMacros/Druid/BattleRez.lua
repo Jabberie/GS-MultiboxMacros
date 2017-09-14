@@ -1,12 +1,14 @@
 local _, Sequences = ...
-
-Sequences['JMM_BattleRez'] = {
-  Author="Jabberie@Draka",
+------------------
+----- Druid
+------------------
+Sequences['JMM_Dr_BattleRez'] = {
+  Author = "Jabberie@Draka",
   SpecID=103,
   Talents = "?,?,?,?,?,?,?",
   Helplink = "",
   Default=1,
-  Icon='Spell_Nature_Reincarnation',
+  Icon="INV_MISC_QUESTIONMARK",
   MacroVersions = {
     [1] = {
       StepFunction = [[Sequential]],

@@ -6,94 +6,61 @@
 ## RequiredDeps: GSE
 
 
-## GSEMacros\DeathKnight\Blood\Blood_AoE.lua
-GSEMacros\DeathKnight\Blood\Blood_ST.lua
-## GSEMacros\DeathKnight\Frost\Frost_AoE.lua
-## GSEMacros\DeathKnight\Frost\Frost_ST.lua
-## GSEMacros\DeathKnight\Unholy\Unholy_AoE.lua
-## GSEMacros\DeathKnight\Unholy\Unholy_ST.lua
+GSEMacros\DeathKnight\Blood.lua
+GSEMacros\DeathKnight\Frost.lua
+GSEMacros\DeathKnight\Unholy.lua
 
-GSEMacros\DemonHunter\Havoc\Havoc_AoE.lua
-## GSEMacros\DemonHunter\Havoc\Havoc_ST.lua
-GSEMacros\DemonHunter\Vengeance\Vengeance_AoE.lua
-## GSEMacros\DemonHunter\Vengeance\Vengeance_ST.lua
-## 
-## GSEMacros\Druid\Balance\Balance_AOE.lua
-## GSEMacros\Druid\Balance\Balance_ST.lua
-## GSEMacros\Druid\Feral\Feral_AoE.lua
-## GSEMacros\Druid\Feral\Feral_ST.lua
-## GSEMacros\Druid\Guardian\Guardian_AoE.lua
-## GSEMacros\Druid\Guardian\Guardian_ST.lua
-## GSEMacros\Druid\Restoration\Restoration_AoE.lua
-## GSEMacros\Druid\Restoration\Restoration_ST.lua
-## 
-## GSEMacros\Hunter\BeastMastery\BM_AOE.lua
-## GSEMacros\Hunter\BeastMastery\BM_ST.lua
-## GSEMacros\Hunter\Marksmanship\Marksmanship_AoE.lua
-## GSEMacros\Hunter\Marksmanship\Marksmanship_ST.lua
-## GSEMacros\Hunter\Survival\Survival_AoE.lua
-## GSEMacros\Hunter\Survival\Survival_ST.lua
-## 
-## GSEMacros\Mage\Arcane\Arcane_AOE.lua
-## GSEMacros\Mage\Arcane\Arcane_ST.lua
-## GSEMacros\Mage\Fire\Fire_AoE.lua
-## GSEMacros\Mage\Fire\Fire_ST.lua
-## GSEMacros\Mage\Frost\Frost_AoE.lua
-## GSEMacros\Mage\Frost\Frost_ST.lua
-## 
-## GSEMacros\Monk\Brewmaster\BM_AoE.lua
-## GSEMacros\Monk\Brewmaster\BM_ST.lua
-## GSEMacros\Monk\Mistweaver\MW_AoE.lua
-## GSEMacros\Monk\Mistweaver\MW_ST.lua
-## GSEMacros\Monk\Windwalker\WW_AoE.lua
-## GSEMacros\Monk\Windwalker\WW_ST.lua
-## 
-## GSEMacros\Paladin\Holy\Holy_AoE.lua
-## GSEMacros\Paladin\Holy\Holy_ST.lua
-## GSEMacros\Paladin\Protection\Prot_AoE.lua
-## GSEMacros\Paladin\Protection\Prot_ST.lua
-## GSEMacros\Paladin\Retribution\Ret_AoE.lua
-## GSEMacros\Paladin\Retribution\Ret_ST.lua
-## 
-## GSEMacros\Priest\Discipline\Disc_AoE.lua
-## GSEMacros\Priest\Discipline\Disc_ST.lua
-## GSEMacros\Priest\Holy\Holy_AoE.lua
-## GSEMacros\Priest\Holy\Holy_ST.lua
-## GSEMacros\Priest\Shadow\Shadow_AoE.lua
-## GSEMacros\Priest\Shadow\Shadow_ST.lua
-## 
-## GSEMacros\Rogue\Assassination\Assin_AoE.lua
-## GSEMacros\Rogue\Assassination\Assin_ST.lua
-## GSEMacros\Rogue\Outlaw\Outlaw_AoE.lua
-## GSEMacros\Rogue\Outlaw\Outlaw_ST.lua
-## GSEMacros\Rogue\Subtlety\Sub_AoE.lua
-## GSEMacros\Rogue\Subtlety\Sub_ST.lua
-## 
-## GSEMacros\Shaman\Elemental\Elemental_AoE.lua
-## GSEMacros\Shaman\Elemental\Elemental_ST.lua
-## GSEMacros\Shaman\Enhancement\Enhancement_AoE.lua
-## GSEMacros\Shaman\Enhancement\Enhancement_ST.lua
-## GSEMacros\Shaman\Restoration\Restoration_AOE.lua
-## GSEMacros\Shaman\Restoration\Restoration_ST.lua
-## 
-## GSEMacros\Warlock\Affliction\Affliction_AOE.lua
-## GSEMacros\Warlock\Affliction\Affliction_ST.lua
-## GSEMacros\Warlock\Demonology\Demonology_AOE.lua
-## GSEMacros\Warlock\Demonology\Demonology_ST.lua
-## GSEMacros\Warlock\Destruction\Destruction_AOE.lua
-## GSEMacros\Warlock\Destruction\Destruction_ST.lua
-## 
-## GSEMacros\Warrior\Arms\Arms_AOE.lua
-## GSEMacros\Warrior\Arms\Arms_ST.lua
-## GSEMacros\Warrior\Fury\Fury_AOE.lua
-## GSEMacros\Warrior\Fury\Fury_ST.lua
-## GSEMacros\Warrior\Protection\Protection_AOE.lua
-## GSEMacros\Warrior\Protection\Protection_ST.lua
+GSEMacros\DemonHunter\Havoc.lua
+GSEMacros\DemonHunter\Vengeance.lua
+
+GSEMacros\Druid\Balance.lua
+GSEMacros\Druid\Feral.lua
+GSEMacros\Druid\Guardian.lua
+GSEMacros\Druid\Restoration.lua
+
+GSEMacros\Hunter\BeastMastery.lua
+GSEMacros\Hunter\Marksmanship.lua
+GSEMacros\Hunter\Survival.lua
+
+GSEMacros\Mage\Arcane.lua
+GSEMacros\Mage\Fire.lua
+GSEMacros\Mage\Frost.lua
+
+GSEMacros\Monk\Brewmaster.lua
+GSEMacros\Monk\Mistweaver.lua
+GSEMacros\Monk\Windwalker.lua
+
+GSEMacros\Paladin\Holy.lua
+GSEMacros\Paladin\Protection.lua
+GSEMacros\Paladin\Retribution.lua
+
+GSEMacros\Priest\Discipline.lua
+GSEMacros\Priest\Holy.lua
+GSEMacros\Priest\Shadow.lua
+
+GSEMacros\Rogue\Assassination.lua
+GSEMacros\Rogue\Outlaw.lua
+GSEMacros\Rogue\Subtlety.lua
+
+GSEMacros\Shaman\Elemental.lua
+GSEMacros\Shaman\Enhancement.lua
+GSEMacros\Shaman\Restoration.lua
+
+GSEMacros\Warlock\Affliction.lua
+GSEMacros\Warlock\Demonology.lua
+GSEMacros\Warlock\Destruction.lua
+
+GSEMacros\Warrior\Arms.lua
+GSEMacros\Warrior\Fury.lua
+GSEMacros\Warrior\Protection.lua
 
 ## ################
 ## Special Macros
 ## ################
 
 GSEMacros\Hunter\BeastMastery\BM_Farm.lua
+GSEMacros\Druid\Affinity_Boomkin.lua
+GSEMacros\Druid\Affinity_Resto.lua
+GSEMacros\Druid\BattleRez.lua
 
 loaded.lua
