@@ -1,0 +1,6 @@
+package-as: GS-MultiboxMacros
+
+ignore:
+    - README.md
+    - LICENSE
+    - _config.yml
