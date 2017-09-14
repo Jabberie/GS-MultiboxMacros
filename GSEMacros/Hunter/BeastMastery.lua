@@ -1,6 +1,6 @@
 local _, Sequences = ...
 ------------------
------ Hunter
+----- Hunter 
 ------------------
 Sequences['JMM_Hu_BM_ST'] = {
   Author = "Jabberie@Draka",  
