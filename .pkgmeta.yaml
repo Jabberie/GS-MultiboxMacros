@@ -7,7 +7,7 @@ move-folders:
 
 ignore:
     - README.md
-    - LICENSE
+    - LICENSE.txt
     - _config.yml
 
 required-dependencies:
