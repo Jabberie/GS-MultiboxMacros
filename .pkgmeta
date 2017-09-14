@@ -1,6 +1,21 @@
 package-as: GS-MultiboxMacros
+enable-nolib-creation: no
+
+externals:
+
+move-folders:
 
 ignore:
     - README.md
     - LICENSE
     - _config.yml
+
+required-dependencies:
+
+optional-dependencies:
+
+manual-changelog: CHANGELOG.txt
+
+license-output: LICENSE.txt
+
+tools-used:
