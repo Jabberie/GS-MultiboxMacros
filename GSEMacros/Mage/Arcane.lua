@@ -23,6 +23,7 @@ Sequences['JMM_Ma_Arcane_ST'] = {
       },
       KeyRelease={
         "/cast [combat] Blood Fury",
+        "/cast [combat] Berserking",
       },
     },
   },
@@ -46,7 +47,8 @@ Sequences['JMM_Ma_Arcane_AoE'] = {
       PostMacro={
       },
       KeyRelease={
-      "/cast [combat] Blood Fury",
+        "/cast [combat] Blood Fury",
+        "/cast [combat] Berserking",
       },
     },
   },

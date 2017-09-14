@@ -28,6 +28,8 @@ Sequences['JMM_Dr_Guardian_ST'] = {
       },
       KeyRelease={
         "/cast Mangle",
+        "/cast [combat] Blood Fury",
+        "/cast [combat] Berserking",        
       },
     },
   },

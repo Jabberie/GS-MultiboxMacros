@@ -29,6 +29,8 @@ Sequences['JMM_Dr_Feral_ST'] = {
         "/console autounshift 0",   -----------------------------------------------
         "/cast [@player] Regrowth", -- change @player to a name/focus or @party1 --
         "/console autounshift 1",   -----------------------------------------------
+        "/cast [combat] Blood Fury",
+        "/cast [combat] Berserking",        
       },
     },
   },

@@ -33,6 +33,7 @@ Sequences['JMM_Wr_Prot_ST'] = {
         "/castsequence [combat] reset=combat Devastate, Demoralizing Shout",
         "/castsequence [combat] reset=combat Devastate, Battle Cry",
         "/cast [combat] Blood Fury",
+        "/cast [combat] Berserking",     
       },
     },
   },

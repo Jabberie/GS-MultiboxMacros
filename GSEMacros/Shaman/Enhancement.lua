@@ -14,8 +14,6 @@ Sequences['JMM_Sh_Enh_ST'] = {
       KeyPress={
         "/cast [combat] Doom Winds",
       },
-      PreMacro={
-      },
         "/cast Rockbiter",
         "/cast Earthen Spike",
         "/castsequence  reset=9  Lightning Bolt",
@@ -23,9 +21,9 @@ Sequences['JMM_Sh_Enh_ST'] = {
         "/cast [combat] Crash Lightning",
         "/cast [combat] Feral Spirit",
         "/cast Stormstrike",
-      PostMacro={
-      },
       KeyRelease={
+        "/cast [combat] Blood Fury",
+        "/cast [combat] Berserking",           
       },
     },
   },

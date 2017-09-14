@@ -25,6 +25,8 @@ Sequences['JMM_Dr_Resto_ST'] = {
       PostMacro={
       },
       KeyRelease={
+        "/cast [combat] Blood Fury",
+        "/cast [combat] Berserking",      
       },
     },
   },

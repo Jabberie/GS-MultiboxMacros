@@ -29,6 +29,8 @@ Sequences['JMM_Sh_Ele_ST'] = {
       },
       KeyRelease={
         "/cast Lava Burst",
+        "/cast [combat] Blood Fury",
+        "/cast [combat] Berserking",             
       },
     },
   },
@@ -60,6 +62,8 @@ Sequences['JMM_Sh_Ele_AoE'] = {
       },
       KeyRelease={
         "/cast Lava Burst",
+        "/cast [combat] Blood Fury",
+        "/cast [combat] Berserking",             
       },
     },
   },

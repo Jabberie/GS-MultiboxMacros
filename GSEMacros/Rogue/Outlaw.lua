@@ -27,7 +27,8 @@ Sequences['JMM_Ro_Outlaw_ST'] = {
       },
       KeyRelease={
         "/cast [nostealth,nocombat] Stealth",
-        "/click TotT",
+        "/cast [nostealth, combat] Blood Fury",
+        "/cast [nostealth, combat] Berserking",
       },
     },
   },
@@ -58,7 +59,8 @@ Sequences['JMM_Ro_Outlaw_AoE'] = {
       },
       KeyRelease={
         "/cast [nostealth,nocombat] Stealth",
-        "/click TotT",
+        "/cast [nostealth, combat] Blood Fury",
+        "/cast [nostealth, combat] Berserking",
       },
     },
   },

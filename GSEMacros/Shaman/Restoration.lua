@@ -26,6 +26,7 @@ Sequences['JMM_Sh_Resto_ST'] = {
       KeyRelease={
         "/cast [combat] Healing Stream Totem",
         "/cast [combat] Blood Fury",
+        "/cast [combat] Berserking",     
       },
     },
   },
@@ -54,6 +55,7 @@ Sequences['JMM_Sh_Resto_AOE'] = {
       KeyRelease={
         "/cast [combat] Healing Stream Totem",
         "/cast [combat] Blood Fury",
+        "/cast [combat] Berserking",     
       },
     },
   },

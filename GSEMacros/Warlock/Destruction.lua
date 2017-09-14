@@ -28,6 +28,7 @@ Sequences['JMM_Wk_Destro_ST'] = {
       },
       KeyRelease={
         "/cast [combat] Blood Fury",
+        "/cast [combat] Berserking",     
       },
     },
   },
@@ -58,6 +59,7 @@ Sequences['JMM_Wk_Destro_AOE'] = {
       },
       KeyRelease={
         "/cast [combat] Blood Fury",
+        "/cast [combat] Berserking",     
       },
     },
   },
