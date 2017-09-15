@@ -5,7 +5,7 @@ local _, Sequences = ...
 Sequences['JMM_Wk_Destro_ST'] = {
   Author = "Jabberie@Draka",
   SpecID=267,
-  Talents = "1,3,3,1,2,2,2",
+  Talents = "1,1,?,2,1,1,2",
   Default=1,
   Icon="INV_MISC_QUESTIONMARK",
   MacroVersions = {
@@ -13,17 +13,15 @@ Sequences['JMM_Wk_Destro_ST'] = {
       StepFunction = "Priority",
       KeyPress={
         "/stopmacro [channeling]", 
-        "/cast [nopet] Summon Imp", 
+        "/cast [nopet] Summon Doomguard", 
         "/castsequence reset=target Immolate, null",
       },
       PreMacro={
       },
-        "/castsequence Immolate, Shadow Bolt, Shadow Bolt, Shadow Bolt, Shadow Bolt, Shadow Bolt",
+        "/castsequence reset=combat Immolate, Shadow Bolt, Shadow Bolt, Shadow Bolt",
         "/cast Chaos Bolt",
-        "/cast Channel Demonfire",
         "/cast Conflagrate",
-        "/cast Grimoire: Imp",
-        "/castsequence Shadow Bolt, Shadow Bolt, Shadow Bolt",
+        "/cast [combat] Dimensional Rift",
       PostMacro={
       },
       KeyRelease={

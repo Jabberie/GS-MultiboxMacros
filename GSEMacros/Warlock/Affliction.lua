@@ -19,8 +19,8 @@ Sequences['JMM_Wk_Aff_ST'] = {
       },
         "/cast [mod:shift] Seed of Corruption",
         "/castsequence [combat] reset=combat Phantom Singularity, Unstable Affliction, Unstable Affliction",
-        "/castsequence reset=combat/target  Drain Soul, Agony, Corruption, Drain Soul, Agony, Corruption, Unstable Affliction, Life Tap",
-        "/castsequence [combat] reset=combat Reap Souls, Unstable Affliction, Unstable Affliction",
+        "/castsequence reset=combat/target  Drain Soul, Agony, Corruption, Unstable Affliction, Drain Soul, Agony, Corruption, Life Tap",
+        "/castsequence [combat] reset=combat Reap Souls, Unstable Affliction, Unstable Affliction, Unstable Affliction",
       PostMacro={
       },
       KeyRelease={
