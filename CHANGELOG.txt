@@ -1,4 +1,6 @@
-
+GS-MultiboxMacros Beta.0.3
+2017-10-07
+updated warrior protection
 
 GS-MultiboxMacros Beta.0.2
 2017-09-14
