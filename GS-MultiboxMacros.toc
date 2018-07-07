@@ -1,5 +1,5 @@
 ## Interface: 70300
-## Title: |cffff0000GS-E:|r |551A8BJabberie's Multiboxing Macros|r
+## Title: |cffff0000GSE2:|r |cFF00D1FFJabberie's Multiboxing Macros|r
 ## Notes: A Collection of GSE Macros specifically tailored for Multiboxing
 ## Author: Jabberie@Draka
 ## Version: v2.1.0
